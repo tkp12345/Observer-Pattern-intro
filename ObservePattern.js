@@ -24,7 +24,7 @@ store.register(JSFile3)
 
 store.notify('좋아요 +1')
 // JSFile1 : '좋아요 +1'
-// JSFile2 : '좋아요 +2'
-// JSFile3 : '좋아요 +3'
+// JSFile2 : '좋아요 +1'
+// JSFile3 : '좋아요 +1'
 
 
